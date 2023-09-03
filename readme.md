@@ -1,13 +1,11 @@
 
 Zahid Imran
 
-[![Python application](https://github.com/FarazRazi/mlops_practice/actions/workflows/python-app.yml/badge.svg)](https://github.com/FarazRazi/mlops_practice/actions/workflows/python-app.yml)
-
 # MLOPS
 
 ## setup
 
-### for windows
+### For windows
 
 - create a virtual environment
 
