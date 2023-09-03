@@ -36,13 +36,13 @@ if __name__ == '__main__':
             input1 = int(input('Enter first number: '))
             input2 = int(input('Enter second number: '))
             if choice == 1:
-                print(add(input1, input2))
+                print(addFunction(input1, input2))
             elif choice == 2:
-                print(sub(input1, input2))
+                print(subFunction(input1, input2))
             elif choice == 3:
-                print(mul(input1, input2))
+                print(mulFunction(input1, input2))
             elif choice == 4:
-                print(div(input1, input2))
+                print(divFunction(input1, input2))
             else:
                 print('Invalid choice')
             print()
