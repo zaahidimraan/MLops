@@ -1,19 +1,19 @@
-def add(var1: int, var2: int):
+def addFunction(var1: int, var2: int):
     """Function to Add"""
     return var1 + var2
 
 
-def sub(var1: int, var2: int):
+def subFunction(var1: int, var2: int):
     """Function to Substract"""
     return var1 - var2
 
 
-def mul(var1: int, var2: int):
+def mulFunction(var1: int, var2: int):
     """Function to Multiple"""
     return var1 * var2
 
 
-def div(var1: int, var2: int):
+def divFunction(var1: int, var2: int):
     """Function to Divide"""
     if var2 == 0:
         raise ValueError('Cannot divide by zero')
