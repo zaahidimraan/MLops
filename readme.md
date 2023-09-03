@@ -1,6 +1,6 @@
 
 Zahid Imran
-
+[![Python application](https://github.com/zahid479833/MLops/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/zahid479833/MLops/actions/workflows/python-app.yml)
 
 # MLOPS
 
