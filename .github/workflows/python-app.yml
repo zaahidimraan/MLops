@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "i200469" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "i200469" ]
 
 permissions:
   contents: read
