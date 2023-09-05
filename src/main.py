@@ -13,8 +13,13 @@ def mulFunction(var1: float, var2: float):
     return var1 * var2
 
 
+<<<<<<< HEAD
 def divFunction(var1: float, var2: float):
     """Function to Divide"""
+=======
+def divFunction(var1: int, var2: int):
+    """Function to Divide two numbers"""
+>>>>>>> 34613156454bc670caaf84f5db9cb7113b125aed
     if var2 == 0:
         raise ValueError('Cannot divide by zero')
 
