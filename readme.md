@@ -1,9 +1,5 @@
 
 Zahid Imran  i200469
-<<<<<<< HEAD
-=======
-[![Python application](https://github.com/zahid479833/MLops/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/zahid479833/MLops/actions/workflows/python-app.yml)
->>>>>>> 34613156454bc670caaf84f5db9cb7113b125aed
 
 # MLOPS
 
