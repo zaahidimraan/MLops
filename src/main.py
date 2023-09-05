@@ -14,7 +14,7 @@ def mulFunction(var1: int, var2: int):
 
 
 def divFunction(var1: int, var2: int):
-    """Function to Divide"""
+    """Function to Divide two numbers"""
     if var2 == 0:
         raise ValueError('Cannot divide by zero')
 
