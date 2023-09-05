@@ -1,19 +1,19 @@
-def addFunction(var1: int, var2: int):
+def addFunction(var1: float, var2: float):
     """Function to Add"""
     return var1 + var2
 
 
-def subFunction(var1: int, var2: int):
+def subFunction(var1: float, var2: float):
     """Function to Substract"""
     return var1 - var2
 
 
-def mulFunction(var1: int, var2: int):
+def mulFunction(var1: float, var2: float):
     """Function to Multiple"""
     return var1 * var2
 
 
-def divFunction(var1: int, var2: int):
+def divFunction(var1: float, var2: float):
     """Function to Divide"""
     if var2 == 0:
         raise ValueError('Cannot divide by zero')
@@ -33,8 +33,8 @@ if __name__ == '__main__':
             choice = int(input('Enter your choice: '))
             if choice == 5:
                 break
-            input1 = int(input('Enter first number: '))
-            input2 = int(input('Enter second number: '))
+            input1 = float(input('Enter first number: '))
+            input2 = float(input('Enter second number: '))
             if choice == 1:
                 print(addFunction(input1, input2))
             elif choice == 2:
