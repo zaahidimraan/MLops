@@ -1,12 +1,12 @@
 
-Zahid Imran
-[![Python application](https://github.com/zahid479833/MLops/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/zahid479833/MLops/actions/workflows/python-app.yml)
+Zahid Imran  i200469
+Ali tajir i200512
 
 # MLOPS
 
 ## setup
 
-### for windows
+### For windows
 
 - create a virtual environment
 
