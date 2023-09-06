@@ -44,7 +44,7 @@ if __name__ == '__main__':
             elif choice == 4:
                 print(divFunction(input1, input2))
             else:
-                print('Invalid choice')
+                print('Invalid choice, Kindly try again')
             print()
 
     except ValueError as e:
