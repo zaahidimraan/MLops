@@ -1,18 +1,19 @@
+#this is the addfnction
 def addFunction(var1: float, var2: float):
     """Function to Add"""
     return var1 + var2
 
-
+#this is the subtraction fnction
 def subFunction(var1: float, var2: float):
     """Function to Substract"""
     return var1 - var2
 
-
+#this is the multiplication fnction
 def mulFunction(var1: float, var2: float):
     """Function to Multiple"""
     return var1 * var2
 
-
+#this is the division fnction
 def divFunction(var1: float, var2: float):
     """Function to Divide"""
     if var2 == 0:
@@ -20,7 +21,7 @@ def divFunction(var1: float, var2: float):
 
     return var1 / var2
 
-
+#this is the main fnction
 if __name__ == '__main__':
     try:
         # menu driven program
@@ -49,3 +50,5 @@ if __name__ == '__main__':
 
     except ValueError as e:
         print(e)
+        
+
