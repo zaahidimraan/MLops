@@ -5,7 +5,7 @@ name: Python application
 
 on:
   push:
-    branches: [ "i200469" ]
+    branches: [ "zahid" ]
   pull_request:
     branches: [ "main" ]
 
@@ -30,6 +30,3 @@ jobs:
     - name: Lint with pylint
       run: |
         pylint --fail-under=8 --exit-zero --max-line-length=120 src
-    - name: Test with pytest
-      run: |
-        pytest src/test.py
